@@ -8,7 +8,7 @@
 -i https://pypi.org/simple/
 astroid==2.3.1
 autopep8==1.4.4
-certifi==2022.12.7
+certifi==2023.7.22
 chardet==3.0.4
 colorama==0.4.1
 idna==2.8
@@ -16,7 +16,7 @@ isort==4.3.21
 lazy-object-proxy==1.4.2
 mccabe==0.6.1
 pycodestyle==2.5.0
-pylint==2.6.1
+pylint==2.4.3
 requests==2.22.0
 six==1.12.0
 typed-ast==1.4.0
